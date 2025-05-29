@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+*.log
+package-lock.json
+yarn.lock
+*.tgz
+android/
+ios/
+# Исключить большие файлы в assets/, если они есть
+assets/*.mp3
+assets/*.mp4
+assets/*.mov
+.idea/
+# Если есть другие большие файлы, добавь их сюда
